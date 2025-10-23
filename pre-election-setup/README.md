@@ -52,7 +52,7 @@ Using an election manager card that was programmed for the election:
 
 ## Checking Network Details
 
-To confirm that all your poll books are configured and connected, select the antennae icon at the top of the screen to open the `Network Details` table. After all machines are configured, confirm that:
+To confirm that all your poll books are configured and connected, select the antenna icon at the top of the screen to open the `Network Details` table. After all machines are configured, confirm that:
 
 * [ ] The number of poll books matches the number you expect
 * [ ] The election hash (under `Election`) is the same for all poll books

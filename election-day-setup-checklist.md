@@ -24,4 +24,4 @@ If some poll books aren't seeing one another, try moving them closer, or clickin
 
 * [ ] Confirm that you have the necessary poll worker and election manager cards to unlock VxPollBook
 * [ ] Confirm that you have extra thermal paper printer rolls on hand
-* [ ] If any voters have died shortly before election day, election managers should mark then as "Inactive" in VxPollBook. see the instructions in the [election-manager-election-day-guide.md](election-manager-election-day-guide.md "mention")
+* [ ] If any voters pass away or become ineligible to vote shortly before election day, election managers should mark then as "Inactive" in VxPollBook. see the instructions in the [election-manager-election-day-guide.md](election-manager-election-day-guide.md "mention")

@@ -1,6 +1,6 @@
 # Election Manager Election Day Guide
 
-Election managers have more privileges and responsibilities than poll workers on election day. Poll workers - and _only_ poll workers - perform the actual voter check-ins. Election managers are responsible for:
+Election managers have more privileges and responsibilities than poll workers on election day. Poll workers — and _only_ poll workers — perform the actual voter check-ins. Election managers are responsible for:
 
 * Adding newly registered voters
 * Updating voters' name changes
@@ -58,7 +58,7 @@ Go to the `Voter` tab and navigate to the voter's `Voter Details` page. Select `
 
 ## Flagging Voters as Inactive
 
-In some cases, voters may be become inactive (e.g. become ineligible to vote or pass away) after the voter list is finalized and election is fully configured. When that happens, you may flag those voters as inactive in VxPollBook.&#x20;
+In some cases, voters may be become inactive (e.g. pass away or become ineligible to vote) after the voter list is finalized and election is fully configured. When that happens, you may flag those voters as inactive in VxPollBook.&#x20;
 
 Go to the `Voter` tab and navigate to the voter's `Voter Details` page. Select `Flag Voter as Inactive` and then select `Flag Inactive` to confirm.
 

@@ -1,6 +1,8 @@
 # Hardware Setup
 
-Before you set up all of your poll books, ensure that you have enough outlets available via power strips and extension cords. Each poll book requires two outlets on election day - one for the laptop and one for the printer. We recommend using one power strip per two or three poll books, each connected to wall outlets directly or via extension cords.
+{% hint style="info" %}
+Before you set up all of your poll books, ensure that you have enough outlets available via power strips and extension cords. Each poll book requires two outlets on election day — one for the laptop and one for the printer. We recommend using one power strip per two or three poll books, each connected to wall outlets directly or via extension cords.
+{% endhint %}
 
 ## Laptop Setup
 

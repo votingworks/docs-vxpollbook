@@ -6,7 +6,7 @@ Election managers can access the statistics screen, which shows real-time counts
 
 <figure><img src=".gitbook/assets/Screenshot-VxPollBook-2025-10-08T220150.989Z-gen-2.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Use the toggle above the precinct voter throughput chart to view throughput data in different granularities - either 15 minute, 30 minute, or 1 hour intervals.
+Use the toggle above the precinct voter throughput chart to view throughput data in different granularities — either 15 minute, 30 minute, or 1 hour intervals.
 
 ### General Elections
 
