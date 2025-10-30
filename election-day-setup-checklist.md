@@ -9,7 +9,7 @@ Use this checklist to set up all VxPollBooks at the precinct on or just before e
 For each VxPollBook:
 
 * [ ] Complete the [hardware-setup.md](hardware-setup.md "mention") , including loading printer paper
-* [ ] Confirm that there are no yellow warning symbols in the top bar, which would indicate something is not connected
+* [ ] Confirm that there are no yellow warning symbols next to the printer or ID card symbol in the top bar. Note: a warning symbol next to the USB icon is OK.
 * [ ] Confirm that there is a lightning bolt symbol in the top bar, which indicates that the laptop is charging
 
 ## Network Check
