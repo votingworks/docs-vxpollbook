@@ -48,6 +48,16 @@ If a voter was incorrectly checked in due to poll worker error, an election mana
 
 <figure><img src=".gitbook/assets/Screenshot-VxPollBook-2025-09-29T19_04_30.194Z.png" alt="" width="375"><figcaption></figcaption></figure>
 
+## Deleting New Registrations
+
+If a new registrations was added in error, election managers can delete the registration. After the registration is deleted, it will still appear in the election manager voter list but will be removed from the poll worker voter list, making it impossible to check-in a voter under that registration. The deleted registration will also be subtracted from all relevant statistics.
+
+It is not possible to delete a registration if the voter is already checked in, but an election manager can first undo the check-in and _then_ delete the registration.
+
+It is not possible to delete registrations that were added prior to election day.
+
+<div><figure><img src=".gitbook/assets/Screenshot-VxPollBook-2026-02-03T141313.556Z-deletable-voter.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Screenshot-VxPollBook-2026-02-03T141323.847Z-delete-registration-modal.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
 ## Reprinting Check-In Receipts
 
 Election managers can reprint voter check-in receipts. The most common reason you would need to reprint a receipt is if a receipt printer wasn't reloaded with paper before running out.&#x20;
