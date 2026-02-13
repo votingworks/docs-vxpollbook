@@ -2,7 +2,7 @@
 
 VxPollBook is an electronic poll book developed by [VotingWorks](https://voting.works) which aims to make the voter check-in process as fast, easy, and secure as possible.
 
-<figure><img src=".gitbook/assets/0.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_3613-trimmed.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 If you're a poll worker looking for instructions on election day, read the [poll-worker-election-day-guide.md](poll-worker-election-day-guide.md "mention").
 

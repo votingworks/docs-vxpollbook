@@ -22,7 +22,7 @@ You're ready to start checking in voters if you've unlocked the poll book and se
 
 In most cases, you'll look up the voter by scanning the barcode on the back of the voter's driver's license. Hold the driver's license a few inches in front of the barcode scanner with the back of the license facing toward the scanner:
 
-<figure><img src=".gitbook/assets/IMG_3250.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/IMG_3616 copy.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 After the license is scanned, you'll hear a beep from the scanner. If the name on the license matches a registered voter, their information will appear on screen:
 

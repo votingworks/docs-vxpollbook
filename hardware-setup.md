@@ -22,21 +22,15 @@ Before you set up all of your poll books, ensure that you have enough outlets av
 
 <div><figure><img src=".gitbook/assets/printer_connections.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/printer_beside_laptop.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-## Barcode Scanner Setup
-
-* [ ] Plug the cable with the clear plastic end into the back of the barcode scanner
-* [ ] Place the barcode scanner on top of the printer
-
-<div><figure><img src=".gitbook/assets/barcode-scanner-port.jpg" alt="" width="188"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/scanner-setup.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
-
 ## USB Connections
 
 * [ ] Insert the USB drive into the laptop's left USB port
 * [ ] Plug the USB hub into the laptop's right USB port
-* [ ] Plug both the printer and barcode scanner USB cables into the USB hub
+* [ ] Plug the printer USB cable into the USB hub
+* [ ] Plug the barcode scanner cable into the USB hub and place the barcode scanne atop the printer
 * [ ] (Optional) Plug the mouse into the USB hub
 
-<div><figure><img src=".gitbook/assets/insert-USB-drive.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/USB-connections-hub.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src=".gitbook/assets/insert-USB-drive.jpg" alt="" width="375"><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/IMG_3620 copy.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Load Printer Paper
 
